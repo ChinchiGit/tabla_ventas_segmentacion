@@ -9,7 +9,8 @@ const App = () => {
       type: 'bar',
       stack: 'stack',
       label: {
-        show: true
+        show: true,
+        formatter: '{c}€'
       },
       emphasis: {
         focus: 'series'
@@ -21,7 +22,8 @@ const App = () => {
       type: 'bar',
       stack: 'stack',
       label: {
-        show: true
+        show: true,
+        formatter: '{c}€'
       },
       emphasis: {
         focus: 'series'
@@ -33,7 +35,8 @@ const App = () => {
       type: 'bar',
       stack: 'stack',
       label: {
-        show: true
+        show: true,
+        formatter: '{c}€'
       },
       emphasis: {
         focus: 'series'
@@ -45,7 +48,8 @@ const App = () => {
       type: 'bar',
       stack: 'stack',
       label: {
-        show: true
+        show: true,
+        formatter: '{c}€'
       },
       emphasis: {
         focus: 'series'
